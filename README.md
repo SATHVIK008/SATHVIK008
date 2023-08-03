@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **New Features in Cricket Analytics**
+- 🔭 I’m currently working on **Story telling with data and deployment of machine learning models into websites**
 
 - 🌱 I’m currently learning **Advanced Statistics and story telling with data**
 
-- 🤝 I’m looking for help with **Cricket and Business analysts**
+- 🤝 I’m looking for help with **Django and flask developers**
 
 - 👨‍💻 All of my Skills are available at [https://sathvikvadarevu-portfolio.netlify.app/](https://sathvikvadarevu-portfolio.netlify.app/)
 
