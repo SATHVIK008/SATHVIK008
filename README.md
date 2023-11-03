@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Django and flask developers**
 
-- 👨‍💻 All of my Skills are available at [https://sathvikvadarevu-portfolio.netlify.app/](https://sathvikvadarevu-portfolio.netlify.app/)
+- 👨‍💻 All of my Skills are available at [https://sathvikvadarevu-portfolio.netlify.app/](https://sathvik-vadarevu8.vercel.app/)
 
 - 📫 How to reach me **sathvik.21bce9413@vitapstudent.ac.in**
 
